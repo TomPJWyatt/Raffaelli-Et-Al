@@ -1,0 +1,10 @@
+tifffile 
+scikit-image
+scipy 
+opencv-python
+skan 
+pandas 
+numpy 
+matplotlib 
+bioio
+bioio-czi

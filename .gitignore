@@ -5,5 +5,3 @@
 *.log
 *.tmp
 *.bak
-notebooks/dextran_junctional_penetration_analysis.ipynb
-notebooks/receptor_localisation_wrt_apical_surface.ipynb
